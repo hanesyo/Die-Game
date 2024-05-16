@@ -1,4 +1,5 @@
-# In this code i created a dice game!
+# Final Project, coded by Yohanes Kifle
+In this code i created a dice game!
 
 How to play:
 

@@ -1,5 +1,5 @@
-# Final Project, coded by Yohanes Kifle
-In this code i created a dice game!
+# Die Game, coded by Yohanes Kifle
+In this code I created a dice game!
 
 How to play:
 
